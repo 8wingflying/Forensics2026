@@ -9,5 +9,11 @@
 - Platform
   - Tsurugi Platform
   - Kali Platform
-- Autospsy
--  
+- Windows Tools
+  - Autospsy
+  - FTK imager
+  - SANS
+
+
+## Python
+- python -m http.server 8000
