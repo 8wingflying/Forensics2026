@@ -23,7 +23,15 @@
   - NTFS 鑑識分析
 - Linux鑑識分析
   - 主題5:Linux鑑識分析
+    - Hocrux.E01 來自Def Con 2019 (Linux Forensics)
+    - https://www.dropbox.com/sh/4qfk1miauqbvqst/AAAVCI1G8Sc8xMoqK_TtmSbia?dl=0
+    - 鑑識工具:FTK Imager
+    - 參考解答: https://www.jaiminton.com/Defcon/DFIR-2019/#category-linux-forensics
 - Momory Forensics
+  - 測試檔案下載點: https://mega.nz/file/sh8wmCIL#b4tpech4wzc3QQ6YgQ2uZnOmctRZ2duQxDqxbkWYipQ
+  - 參考資料:
+    - Volatility2:https://www.petermstewart.net/otterctf-2018-memory-forensics-write-up/
+    - Volatility3:https://medium.com/@vostiar.patrik/otterctf-2018-memory-forensics-write-up-fd0e4c1e0d5c
   - 主題6:Volatility記憶體鑑識
   - 主題7:MemProcFS記憶體鑑識分析
 - 主題7:
