@@ -20,6 +20,7 @@
 - https://www.sans.org/apac
 - SEC504: Hacker Tools, Techniques, and Incident Handling
 - [SEC545S: (3 Day) GenAI and LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security)
+- [FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training)
 
 ## Python
 - python -m http.server 8000
