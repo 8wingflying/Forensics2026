@@ -1,10 +1,12 @@
 # Forensics2026
-- Windows Forensics
-- Linux Forensic
+- Endpoint Forensics
+  - Windows Forensics
+  - Linux Forensic
 - Memory Forensics
 - Web Forensics
 - Network Forensics
-
+- Anti-Forensics
+  - Steganography 
 ### Toosl
 - Platform
   - Tsurugi Platform
@@ -14,6 +16,10 @@
   - FTK imager
   - SANS
 
+## SANS
+- https://www.sans.org/apac
+- SEC504: Hacker Tools, Techniques, and Incident Handling
+- [SEC545S: (3 Day) GenAI and LLM Application Security](https://www.sans.org/cyber-security-courses/genai-llm-application-security)
 
 ## Python
 - python -m http.server 8000
